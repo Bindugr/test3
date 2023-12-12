@@ -7,6 +7,9 @@ printf("addition of a and b is %d",sum);
 }
 sub();
 pro();
+{
+printf("multiplication of a and b is %d",pro);
+}
 div():
 }
 
