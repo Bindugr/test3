@@ -10,6 +10,11 @@ sub()
 printf("subtraction of a and b is %d",sub);
 }
 mul();
+sub();
+pro();
+{
+printf("multiplication of a and b is %d",pro);
+}
 div():
 }
 
