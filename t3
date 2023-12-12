@@ -1,1 +1,12 @@
-Bindu
+#include<stdio.h>
+int main()
+{
+add()
+{
+printf("addition of a and b is %d",sum);
+}
+sub();
+pro();
+div():
+}
+
